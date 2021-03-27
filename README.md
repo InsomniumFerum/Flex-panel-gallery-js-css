@@ -1,7 +1,4 @@
 # Flex-panel-gallery-js-css
-
-# -app
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
