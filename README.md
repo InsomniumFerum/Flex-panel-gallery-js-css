@@ -22,7 +22,7 @@ Animated image gallery built with css flexbox and vanilla javascript
 
 [Project-Demo](https://animated-photo-gallery.netlify.app/)
 
-<img src="images/project.png" width="800">
+<img src="images/project.png" width="600">
 
 #### JavaScript Used
 
